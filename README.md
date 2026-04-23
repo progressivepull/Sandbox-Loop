@@ -1,4 +1,4 @@
-# Sandbox-Loop
+# Database-Generator-Loop
 
 * [Generate JSON Template](https://progressivepull.github.io/Sandbox-Loop/)
 
